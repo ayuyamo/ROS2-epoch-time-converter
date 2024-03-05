@@ -1,4 +1,3 @@
-```markdown
 # ROS2 Foxy Project Introduction
 
 Welcome to the ROS2 Foxy project focused on establishing publisher and subscriber nodes for converting Unix epoch time to human-readable time at regular intervals. This project serves as an introductory exercise for the SDSU Mechatronics Club, aiming to familiarize members with ROS2 development.
@@ -81,6 +80,6 @@ entry_points={
 
 ![unix_epoch_time.png](https://github.com/ayuyamo/ROS2-epoch-time-converter/blob/2f23a628a6dc41fe55418f7546baeba4d7f5962d/unix_epoch_time.png)
 
-```
+
 
 
